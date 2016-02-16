@@ -1,0 +1,3 @@
+1 - permitir o usuario escolher o ip e porta do servidor
+2 - apagar o temp automaticamente ou nao
+3 - separar servidor de cliente
